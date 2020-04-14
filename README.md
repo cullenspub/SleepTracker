@@ -3,7 +3,21 @@
 Kotlin programming in Android
 
 ## Things I learned doing this
-
+Preferred Architecture (MVVM),  
+Room,  
+Coroutines,  
+@Entity, 
+DAO @Insert, @Delete, @ColumnInfo,  
+Room can return results as LiveData,  
+@Database (abstract Database helper with companion object),  
+Room Database Builder,
+In-Memory database for testing,  
+Asynchronous patterns - Call Backs, Coroutines,  
+Coroutine Job, Dispatcher, Scope,  
+REMEMBER TO KILL JOB IN onClear(),  
+withContext() {},  
+TransformationMaps used to enable / disable views  
+   
 ### Prerequisites
 N/A
 
