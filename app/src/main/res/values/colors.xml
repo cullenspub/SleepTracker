@@ -16,11 +16,21 @@
 
 <resources>
 
-    <color name="colorPrimary">#6ab343</color>
+    <color name="colorPrimary">@color/primaryDarkColor</color>
     <color name="colorPrimaryDark">#388310</color>
-    <color name="colorAccent">#6ab343</color>
+    <color name="colorAccent">@color/primaryDarkColor</color>
 
     <color name="green_color">#388310</color>
     <color name="white_text_color">#f0f0f0</color>
+
+    <!-- From Material Color Palate tool -->
+    <color name="primaryColor">#82bcb3</color>
+    <color name="primaryLightColor">#b3efe5</color>
+    <color name="primaryDarkColor">#538c83</color>
+    <color name="secondaryColor">#7f8c6e</color>
+    <color name="secondaryLightColor">#aebc9c</color>
+    <color name="secondaryDarkColor">#525f43</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
 
 </resources>
