@@ -29,7 +29,7 @@
     <style name="SleepButtons" parent="Widget.AppCompat.Button.Colored">
         <item name="android:textColor">@color/primaryTextColor</item>
         <item name="colorAccent">@color/primaryLightColor</item>
-        <item name="colorControlHighlight">@color/secondaryColor</item>
+        <item name="colorControlHighlight">@color/primaryColor</item>
         <item name="android:textStyle">bold</item>
     </style>
 

@@ -17,6 +17,19 @@ Coroutine Job, Dispatcher, Scope,
 REMEMBER TO KILL JOB IN onClear(),  
 withContext() {},  
 TransformationMaps used to enable / disable views  
+
+RecyclerView,    
+Adapter Pattern,   
+ViewHolders,  
+DiffUtil,  
+Grid Layout Manager,  
+Spans,  
+create Layout manager in Code,  
+Listen for clicks in ViewHolder - Process Clicks in ViewModel,  
+MediatorLiveData,  
+Sealed Classes (Kotlin) for exhaustive when()'s  
+RecycleList with multiple ViewHolders,   
+
    
 ### Prerequisites
 N/A

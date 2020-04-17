@@ -55,5 +55,8 @@
 
     <!-- Toast to play after Clear button has been pressed -->
     <string name="cleared_message">All your data is gone forever.</string>
+    <string name="sleep_quality_rating_5">Sleep Quality five of five</string>
+    <string name="close">CLOSE</string>
+    <string name="header_text">Here Is Your Sleep Data</string>
 
 </resources>
